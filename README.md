@@ -2,7 +2,7 @@
 
 ## Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-<h3 align="center">Data Analysis Student | Problem Solver | Continuous Learner</h3>
+<h3 align="center">Data Analysis | Problem Solver | Continuous Learner</h3>
 
 ---
 

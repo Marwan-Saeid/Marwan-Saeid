@@ -1,3 +1,5 @@
+![Problem Solving & Data Analysis Banner](https://cdn.dribbble.com/users/926537/screenshots/4502924/data2.gif)
+
 ## Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 <h3 align="center">Data Analysis Student | Problem Solver | Continuous Learner</h3>
@@ -18,25 +20,26 @@
 ## 🧠 Skills & Tools
 
 ### 🔹 Programming Fundamentals
-- C++  
-- Python  
-- C#
+- ![C++](https://img.icons8.com/color/25/000000/c-plus-plus-logo.png) **C++**  
+- ![Python](https://img.icons8.com/color/25/000000/python.png) **Python**  
+- ![C#](https://img.icons8.com/color/25/000000/c-sharp-logo.png) **C#**
 
 ### 🔹 Data Analysis
-- SQL  
-- Excel  
-- Power BI  
+- ![SQL](https://img.icons8.com/ios-filled/25/4479A1/sql.png) **SQL**  
+- ![Excel](https://img.icons8.com/color/25/000000/microsoft-excel-2019--v1.png) **Excel**  
+- ![Power BI](https://img.icons8.com/color/25/000000/power-bi.png) **Power BI**
 
 ### 🔹 Front-End Development
-- HTML  
-- CSS
- ### 🔹 Mobile Application Development
-- Dart  
-- Flutter  
+- ![HTML](https://img.icons8.com/color/25/000000/html-5--v1.png) **HTML**  
+- ![CSS](https://img.icons8.com/color/25/000000/css3.png) **CSS**
+
+### 🔹 Mobile Application Development
+- ![Dart](https://img.icons8.com/color/25/000000/dart.png) **Dart**  
+- ![Flutter](https://img.icons8.com/color/25/000000/flutter.png) **Flutter**
 
 ### 🔹 Version Control
-- Git  
-- GitHub  
+- ![Git](https://img.icons8.com/color/25/000000/git.png) **Git**  
+- ![GitHub](https://img.icons8.com/glyph-neue/25/000000/github.png) **GitHub**
 
 ---
 

@@ -60,7 +60,6 @@
   <a href="https://www.linkedin.com/in/marwan-saeid-1573162b5/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/?locale=ar_AR"><img src="https://img.icons8.com/color/32/000000/facebook.png" alt="Facebook"/></a>
   <a href="https://www.instagram.com"><img src="https://img.icons8.com/fluency/32/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://github.com/MarwanSaeid"><img src="https://img.icons8.com/glyph-neue/32/000000/github.png" alt="GitHub"/></a>
 </p>
 
 ---

@@ -15,6 +15,13 @@
 ✉️ &nbsp;Reach me at **marwansaeid2000@gmail.com** — I’d be happy to connect!  
 🔗 &nbsp;You can also find me on [LinkedIn](https://www.linkedin.com/in/marwan-saeid-1573162b5/).
 
+💪 &nbsp;I’ve solved **600+ competitive programming problems** across platforms like **Codeforces** and **VJudge**,  
+focusing on topics such as **Algorithms**, **Data Structures**, and **Greedy Techniques**.
+
+🔗 &nbsp;Check out my profiles:  
+- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png"/> [**Codeforces Profile**](https://codeforces.com/profile/marwan_saeid1)  
+- <img src="https://avatars.githubusercontent.com/u/20980614?s=200&v=4" width="24"/> [**VJudge Profile**](https://vjudge.net/user/marwan_saeid1)
+
 ---
 
 ## 🧠 Skills & Tools
@@ -58,8 +65,8 @@
 <p align="center">
   <a href="mailto:marwansaeid2000@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/marwan-saeid-1573162b5/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/?locale=ar_AR"><img src="https://img.icons8.com/color/32/000000/facebook.png" alt="Facebook"/></a>
-  <a href="https://www.instagram.com"><img src="https://img.icons8.com/fluency/32/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/marwan.said.12532364/"><img src="https://img.icons8.com/color/32/000000/facebook.png" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/its.1mero/"><img src="https://img.icons8.com/fluency/32/000000/instagram-new.png" alt="Instagram"/></a>
 </p>
 
 ---

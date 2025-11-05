@@ -50,16 +50,6 @@ focusing on topics such as **Algorithms**, **Data Structures**, and **Greedy Tec
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarwanSaeid&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanSaeid&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">

@@ -28,8 +28,7 @@ focusing on topics such as **Algorithms**, **Data Structures**, and **Greedy Tec
 
 ### 🔹 Programming Fundamentals
 - ![C++](https://img.icons8.com/color/25/000000/c-plus-plus-logo.png) **C++**  
-- ![Python](https://img.icons8.com/color/25/000000/python.png) **Python**  
-- ![C#](https://img.icons8.com/color/25/000000/c-sharp-logo.png) **C#**
+- ![Python](https://img.icons8.com/color/25/000000/python.png) **Python** 
 
 ### 🔹 Data Analysis
 - ![SQL](https://img.icons8.com/ios-filled/25/4479A1/sql.png) **SQL**  

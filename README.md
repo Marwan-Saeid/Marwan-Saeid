@@ -2,7 +2,14 @@
 
 ## Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-<h3 align="center">Data Analysis | Problem Solver | Continuous Learner</h3>
+<h3 align="center">Data Analysis | Problem Solving | Competitive Programming | Continuous Learner</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarwanSaeid&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/MarwanSaeid?label=Followers&style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/MarwanSaeid?label=Stars&style=social" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis%20%26%20Problem%20Solving%20%26%20Competitive%20Programming-%23007ACC.svg?style=flat&logo=python&logoColor=white" alt="Data Analysis & Problem Solving & Competitive Programming"/>
+</p>
 
 ---
 
@@ -28,18 +35,18 @@ focusing on topics such as **Algorithms**, **Data Structures**, and **Greedy Tec
 
 ### 🔹 Programming Fundamentals
 - ![C++](https://img.icons8.com/color/25/000000/c-plus-plus-logo.png) **C++**  
-- ![Python](https://img.icons8.com/color/25/000000/python.png) **Python** 
+- ![Python](https://img.icons8.com/color/25/000000/python.png) **Python**
 
 ### 🔹 Data Analysis
 - ![SQL](https://img.icons8.com/ios-filled/25/4479A1/sql.png) **SQL**  
 - ![Excel](https://img.icons8.com/color/25/000000/microsoft-excel-2019--v1.png) **Excel**  
 - ![Power BI](https://img.icons8.com/color/25/000000/power-bi.png) **Power BI**
 
-### 🔹 Front-End Development
+### 🔹 Web Development
 - ![HTML](https://img.icons8.com/color/25/000000/html-5--v1.png) **HTML**  
 - ![CSS](https://img.icons8.com/color/25/000000/css3.png) **CSS**
 
-### 🔹 Mobile Application Development
+### 🔹 Mobile App Development
 - ![Dart](https://img.icons8.com/color/25/000000/dart.png) **Dart**  
 - ![Flutter](https://img.icons8.com/color/25/000000/flutter.png) **Flutter**
 
@@ -58,6 +65,9 @@ focusing on topics such as **Algorithms**, **Data Structures**, and **Greedy Tec
   <a href="https://www.instagram.com/its.1mero/"><img src="https://img.icons8.com/fluency/32/000000/instagram-new.png" alt="Instagram"/></a>
 </p>
 
+
 ---
 
 > “Every problem has a solution — the key is how you think about it.” 🧩
+
+⭐️ From [Marwan Saeid](https://github.com/MarwanSaeid)

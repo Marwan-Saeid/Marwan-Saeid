@@ -40,8 +40,6 @@ focusing on topics such as **Algorithms**, **Data Structures**, and **Greedy Tec
 - ![CSS](https://img.icons8.com/color/25/000000/css3.png) **CSS**
 - ![Dart](https://img.icons8.com/color/25/000000/dart.png) **Dart**  
 - ![Flutter](https://img.icons8.com/color/25/000000/flutter.png) **Flutter**
-- ![Git](https://img.icons8.com/color/25/000000/git.png) **Git**  
-- ![GitHub](https://img.icons8.com/glyph-neue/25/000000/github.png) **GitHub**
 
 ---
 

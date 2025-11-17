@@ -4,18 +4,11 @@
 
 <h3 align="center">Data Analysis | Problem Solving | Competitive Programming | Continuous Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarwanSaeid&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/MarwanSaeid?label=Followers&style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/MarwanSaeid?label=Stars&style=social" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis%20%26%20Problem%20Solving%20%26%20Competitive%20Programming-%23007ACC.svg?style=flat&logo=python&logoColor=white" alt="Data Analysis & Problem Solving & Competitive Programming"/>
-</p>
-
 ---
 
 ## 👋 About Me
 
-🎓 &nbsp;I'm **Marwan Saeid**, a data analysis student who loves solving logical and analytical problems.  
+🎓 &nbsp;I'm **Marwan Saeid**, a data analysis student who is developing my logical and analytical thinking skills.  
 💡 &nbsp;I’m passionate about discovering insights from data and improving decision-making through analysis.  
 📚 &nbsp;Currently studying and building skills in **data analysis**, **visualization**, and **problem solving**.  
 💬 &nbsp;Always open to learning, collaborating, and exploring new technologies.  
@@ -42,15 +35,11 @@ focusing on topics such as **Algorithms**, **Data Structures**, and **Greedy Tec
 - ![Excel](https://img.icons8.com/color/25/000000/microsoft-excel-2019--v1.png) **Excel**  
 - ![Power BI](https://img.icons8.com/color/25/000000/power-bi.png) **Power BI**
 
-### 🔹 Web Development
+### 🔹 Technical Background
 - ![HTML](https://img.icons8.com/color/25/000000/html-5--v1.png) **HTML**  
 - ![CSS](https://img.icons8.com/color/25/000000/css3.png) **CSS**
-
-### 🔹 Mobile App Development
 - ![Dart](https://img.icons8.com/color/25/000000/dart.png) **Dart**  
 - ![Flutter](https://img.icons8.com/color/25/000000/flutter.png) **Flutter**
-
-### 🔹 Version Control
 - ![Git](https://img.icons8.com/color/25/000000/git.png) **Git**  
 - ![GitHub](https://img.icons8.com/glyph-neue/25/000000/github.png) **GitHub**
 

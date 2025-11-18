@@ -41,16 +41,6 @@ focusing on topics such as **Algorithms**, **Data Structures**, and **Greedy Tec
 - ![Dart](https://img.icons8.com/color/25/000000/dart.png) **Dart**  
 - ![Flutter](https://img.icons8.com/color/25/000000/flutter.png) **Flutter**
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:marwansaeid2000@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/marwan-saeid-1573162b5/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/marwan.said.12532364/"><img src="https://img.icons8.com/color/32/000000/facebook.png" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/its.1mero/"><img src="https://img.icons8.com/fluency/32/000000/instagram-new.png" alt="Instagram"/></a>
-</p>
 
 
 ---

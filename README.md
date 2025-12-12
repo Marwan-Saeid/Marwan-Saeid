@@ -47,4 +47,4 @@ focusing on topics such as **Algorithms**, **Data Structures**, and **Greedy Tec
 
 > “Every problem has a solution — the key is how you think about it.” 🧩
 
-⭐️ From [Marwan Saeid](https://github.com/MarwanSaeid)
+⭐️ From [Marwan Saeid](https://github.com/Marwan-Saeid)
